@@ -67,7 +67,7 @@ import adegan24 from "@/app/assets/img/gambar/galeri 6.jpg";
 
 
 //karya
-import naskah1 from '@/app/assets/img/Karya/karya1.jpg'
+import naskah1 from '@/app/assets/img/Karya/karya1.JPG'
 import naskah2 from '@/app/assets/img/citter.png'
 import naskah3 from '@/app/assets/img/gambar/galeri 5.jpg'
 

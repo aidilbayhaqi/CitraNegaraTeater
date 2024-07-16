@@ -15,7 +15,7 @@ const AboutHome = () => {
           CITTER TUH APASIH? KENAPA HARUS CITTER?
         </h2>
         <p className="text-lg mb-2 text-justify">
-          CITTER (Citra Negara Teater), kami adalah salah satu kegiatan
+          CITTER Citra Negara Teater, kami adalah salah satu kegiatan
           ekstrakulikuler di SMK CITRA NEGARA DEPOK dalam bentuk pergelaran seni
           teater, CITTER dibentuk pada 8 September 2012 dengan 4 orang pelatih
           yaitu Bang Ucok Lubis, Kak Vicky, Kak Aries, dan Kak Eka.
@@ -35,8 +35,8 @@ const AboutHome = () => {
           luar FTS kami sudah menggelar pentas tunggal di sekolah pada tanggal
           28 November 2015 dengan lakon "GONG SI BOLONG" dan "MENTANG MENTANG
           DARI NEW YORK". Dan mengikuti beberapa monolog seperti FESTIVAL
-          MONOLOG (TINGKAT NASIONAL) UIN 2017, FESTIVAL MONOLOG SLTA 2019, dan
-          tahun 2022 MONOLOG SPOT (Spirit Pankreas On Art) 14. Lalu baru-baru
+          MONOLOG TINGKAT NASIONAL UIN 2017, FESTIVAL MONOLOG SLTA 2019, dan
+          tahun 2022 MONOLOG SPOT Spirit Pankreas On Art 14. Lalu baru-baru
           ini CITTER mengikuti Festival Teater Madya 2023 dengan membawakan
           lakon "KEPENDEL".
         </p>

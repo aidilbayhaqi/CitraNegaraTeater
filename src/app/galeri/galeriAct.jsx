@@ -59,7 +59,7 @@ const GaleriAct = () => {
               <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2">
                 {adegan.map(({ Img, title, desc }, index) => {
                   return (
-                    <div className="image-container transition-all rounded-lg hover:scale-110 hover:opacity-50">
+                    <div key={index} className="image-container transition-all rounded-lg hover:scale-110 hover:opacity-50">
                       <Image
                         src={Img}
                         alt="Image"
@@ -80,7 +80,7 @@ const GaleriAct = () => {
               <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2">
                 {artistik.map(({ Img, title, desc }, index) => {
                   return (
-                    <div className="image-container transition-all rounded-lg hover:scale-110 hover:opacity-50">
+                    <div key={index} className="image-container transition-all rounded-lg hover:scale-110 hover:opacity-50">
                       <Image
                         src={Img}
                         alt="Image"
@@ -101,7 +101,7 @@ const GaleriAct = () => {
               <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2">
                 {danus.map(({ Img, title, desc }, index) => {
                   return (
-                    <div className="image-container transition-all rounded-lg hover:scale-110 hover:opacity-50">
+                    <div key={index} className="image-container transition-all rounded-lg hover:scale-110 hover:opacity-50">
                       <Image
                         src={Img}
                         alt="Image"
@@ -122,7 +122,7 @@ const GaleriAct = () => {
               <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2">
                 {kostum.map(({ Img, title, desc }, index) => {
                   return (
-                    <div className="image-container transition-all rounded-lg hover:scale-110 hover:opacity-50">
+                    <div key={index} className="image-container transition-all rounded-lg hover:scale-110 hover:opacity-50">
                       <Image
                         src={Img}
                         alt="Image"

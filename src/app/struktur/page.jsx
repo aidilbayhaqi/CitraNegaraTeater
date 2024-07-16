@@ -15,7 +15,7 @@ const Struktural = () => {
       <div className=" grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 p-5">
         {ketua.map(({ Img, name, jabatan, link, desc }, index) => {
           return (
-            <div className="border border-white rounded-xl p-10 m-5">
+            <div key={index} className="border border-white rounded-xl p-10 m-5">
               <Link href={link}>
                 <Image
                   src={Img}
@@ -37,7 +37,7 @@ const Struktural = () => {
       <div className=" grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 p-5 mt-20">
         {anggota.map(({ Img, name, jabatan, link, desc }, index) => {
           return (
-            <div className="border border-white rounded-xl p-10 m-5">
+            <div key={index} className="border border-white rounded-xl p-10 m-5">
               <Link href={link}>
                 <Image
                   src={Img}

@@ -1,11 +1,11 @@
 import React from 'react'
 //aktivitas home
-import aktivitas1 from '@/app/assets/Img/citter.png'
+import aktivitas1 from '@/app/assets/img/citter.png'
 import aktivitas2 from '@/app/assets/img/Galeri/action.JPG'
-import aktivitas3 from '@/app/assets/Img/Galeri/galeri11.jpeg'
-import aktivitas4 from '@/app/assets/Img/Galeri/galeri 3.png'
-import aktivitas5 from '@/app/assets/Img/Galeri/galeri 4.JPG'
-import aktivitas6 from '@/app/assets/Img/Galeri/galeri 7.jpeg'
+import aktivitas3 from '@/app/assets/img/Galeri/galeri11.jpeg'
+import aktivitas4 from '@/app/assets/img/Galeri/galeri 3.png'
+import aktivitas5 from '@/app/assets/img/Galeri/galeri 4.JPG'
+import aktivitas6 from '@/app/assets/img/Galeri/galeri 7.jpeg'
 
 //prestasi home
 import prestasi1 from '@/app/assets/prestasi/prestasi1.jpg'
@@ -16,54 +16,54 @@ import prestasi5 from '@/app/assets/prestasi/prestasi5.jpg'
 import prestasi6 from '@/app/assets/prestasi/prestasi6.jpg'
 
 //slider
-import galeri1 from "@/app/assets/Img/citter.png";
-import galerii2 from "@/app/assets/Img/Galeri/galeri13.jpeg";
-import galeri2 from "@/app/assets/Img/gambar/img17.jpeg";
+import galeri1 from "@/app/assets/img/citter.png";
+import galerii2 from "@/app/assets/img/Galeri/galeri13.jpeg";
+import galeri2 from "@/app/assets/img/gambar/img17.jpeg";
 
 //galeri
-import galerii3 from "@/app/assets/Img/Galeri/galeri 1.JPG";
-import galeri3 from "@/app/assets/Img/gambar/img7.JPG";
-import galeri4 from "@/app/assets/Img/gambar/galeri4.JPG";
-import galeri5 from "@/app/assets/Img/gambar/galeri 5.JPG";
-import galeri6 from "@/app/assets/Img/gambar/galeri 6.JPG";
-import galeri7 from "@/app/assets/Img/gambar/galeri7.JPG";
-import galeri8 from "@/app/assets/Img/Galeri/galeri 4.JPG";
-import galeri9 from "@/app/assets/Img/Galeri/galeri15.jpeg";
-import galeri10 from "@/app/assets/Img/gambar/img18.JPG";
-import galeri11 from "@/app/assets/Img/gambar/img19.JPG";
-import galeri12 from "@/app/assets/Img/gambar/img20.jpg";
-import galeri13 from "@/app/assets/Img/Galeri/galeri 3.jpg";
-import galeri14 from "@/app/assets/Img/gambar/img21.jpg";
-import galeri15 from "@/app/assets/Img/gambar/img22.jpg";
+import galerii3 from "@/app/assets/img/Galeri/galeri 1.JPG";
+import galeri3 from "@/app/assets/img/gambar/img7.JPG";
+import galeri4 from "@/app/assets/img/gambar/galeri4.JPG";
+import galeri5 from "@/app/assets/img/gambar/galeri 5.JPG";
+import galeri6 from "@/app/assets/img/gambar/galeri 6.JPG";
+import galeri7 from "@/app/assets/img/gambar/galeri7.JPG";
+import galeri8 from "@/app/assets/img/Galeri/galeri 4.JPG";
+import galeri9 from "@/app/assets/img/Galeri/galeri15.jpeg";
+import galeri10 from "@/app/assets/img/gambar/img18.JPG";
+import galeri11 from "@/app/assets/img/gambar/img19.JPG";
+import galeri12 from "@/app/assets/img/gambar/img20.jpg";
+import galeri13 from "@/app/assets/img/Galeri/galeri 3.png";
+import galeri14 from "@/app/assets/img/gambar/img21.jpg";
+import galeri15 from "@/app/assets/img/gambar/img22.jpg";
 
 // aktivitas latihan
-import adegan1 from "@/app/assets/Img/Galeri/galeri 6.jpeg";
-import adegan2 from "@/app/assets/Img/gambar/adegan1.jpeg";
-import adegan3 from "@/app/assets/Img/gambar/adegan2.jpeg";
-import adegan4 from "@/app/assets/Img/gambar/adegan3.jpeg";
-import adegan5 from "@/app/assets/Img/gambar/adegan4.jpeg";
-import adegan6 from "@/app/assets/Img/gambar/adegan5.jpeg";
+import adegan1 from "@/app/assets/img/Galeri/galeri 6.jpeg";
+import adegan2 from "@/app/assets/img/gambar/adegan1.jpeg";
+import adegan3 from "@/app/assets/img/gambar/adegan2.jpeg";
+import adegan4 from "@/app/assets/img/gambar/adegan3.jpeg";
+import adegan5 from "@/app/assets/img/gambar/adegan4.jpeg";
+import adegan6 from "@/app/assets/img/gambar/adegan5.jpeg";
 
-import adegan7 from "@/app/assets/Img/gambar/art1.jpeg";
-import adegan8 from "@/app/assets/Img/gambar/art2.jpeg";
-import adegan9 from "@/app/assets/Img/gambar/art3.jpeg";
-import adegan10 from "@/app/assets/Img/gambar/art4.jpeg";
-import adegan11 from "@/app/assets/Img/gambar/art5.jpeg";
-import adegan12 from "@/app/assets/Img/gambar/art6.jpeg";
+import adegan7 from "@/app/assets/img/gambar/art1.jpeg";
+import adegan8 from "@/app/assets/img/gambar/art2.jpeg";
+import adegan9 from "@/app/assets/img/gambar/art3.jpeg";
+import adegan10 from "@/app/assets/img/gambar/art4.jpeg";
+import adegan11 from "@/app/assets/img/gambar/art5.jpeg";
+import adegan12 from "@/app/assets/img/gambar/art6.jpeg";
 
-import adegan13 from "@/app/assets/Img/gambar/kostum1.jpeg";
-import adegan14 from "@/app/assets/Img/gambar/kostum2.jpeg";
-import adegan15 from "@/app/assets/Img/gambar/kostum3.jpeg";
-import adegan16 from "@/app/assets/Img/gambar/kostum4.jpeg";
-import adegan17 from "@/app/assets/Img/gambar/img7.jpg";
-import adegan18 from "@/app/assets/Img/gambar/galeri 6.jpg";
+import adegan13 from "@/app/assets/img/gambar/kostum1.jpeg";
+import adegan14 from "@/app/assets/img/gambar/kostum2.jpeg";
+import adegan15 from "@/app/assets/img/gambar/kostum3.jpeg";
+import adegan16 from "@/app/assets/img/gambar/kostum4.jpeg";
+import adegan17 from "@/app/assets/img/gambar/img7.jpg";
+import adegan18 from "@/app/assets/img/gambar/galeri 6.jpg";
 
-import adegan19 from "@/app/assets/Img/gambar/danus1.jpeg";
-import adegan20 from "@/app/assets/Img/gambar/danus2.jpeg";
-import adegan21 from "@/app/assets/Img/gambar/danus3.jpeg";
-import adegan22 from "@/app/assets/Img/gambar/galeri 6.jpg";
-import adegan23 from "@/app/assets/Img/gambar/galeri 6.jpg";
-import adegan24 from "@/app/assets/Img/gambar/galeri 6.jpg";
+import adegan19 from "@/app/assets/img/gambar/danus1.jpeg";
+import adegan20 from "@/app/assets/img/gambar/danus2.jpeg";
+import adegan21 from "@/app/assets/img/gambar/danus3.jpeg";
+import adegan22 from "@/app/assets/img/gambar/galeri 6.jpg";
+import adegan23 from "@/app/assets/img/gambar/galeri 6.jpg";
+import adegan24 from "@/app/assets/img/gambar/galeri 6.jpg";
 
 
 //karya
@@ -72,19 +72,19 @@ import naskah2 from '@/app/assets/img/citter.png'
 import naskah3 from '@/app/assets/img/gambar/galeri 5.jpg'
 
 //prestasi
-import ketua1 from "@/app/assets/Img/Struktur/ketua.jpg";
-import ketua2 from "@/app/assets/Img/Struktur/wakil.jpg";
+import ketua1 from "@/app/assets/img/Struktur/ketua.jpg";
+import ketua2 from "@/app/assets/img/Struktur/wakil.jpg";
 
 
-import anggota1 from "@/app/assets/Img/Struktur/sekretaris.jpg";
-import anggota2 from "@/app/assets/Img/Struktur/bendahara.jpg";
-import anggota3 from "@/app/assets/Img/Struktur/artistik.jpg";
-import anggota4 from "@/app/assets/Img/Struktur/latihan.jpg";
-import anggota5 from "@/app/assets/Img/Struktur/kostum.jpg";
-import anggota6 from "@/app/assets/Img/Struktur/humas.jpg";
-import anggota7 from "@/app/assets/Img/Struktur/naskah.jpg";
-import anggota8 from "@/app/assets/Img/Struktur/it.jpg";
-import anggota9 from "@/app/assets/Img/Struktur/make up.jpg";
+import anggota1 from "@/app/assets/img/Struktur/sekretaris.jpg";
+import anggota2 from "@/app/assets/img/Struktur/bendahara.jpg";
+import anggota3 from "@/app/assets/img/Struktur/artistik.jpg";
+import anggota4 from "@/app/assets/img/Struktur/latihan.jpg";
+import anggota5 from "@/app/assets/img/Struktur/kostum.jpg";
+import anggota6 from "@/app/assets/img/Struktur/humas.jpg";
+import anggota7 from "@/app/assets/img/Struktur/naskah.jpg";
+import anggota8 from "@/app/assets/img/Struktur/it.jpg";
+import anggota9 from "@/app/assets/img/Struktur/make up.jpg";
 
 
 

@@ -1,8 +1,5 @@
 import React from "react";
 import "@/app/globals.css";
-import IconHome2 from "@/app/assets/img/IconHome2.png";
-
-import Image from "next/image";
 
 const AboutHome = () => {
   return (
@@ -15,7 +12,7 @@ const AboutHome = () => {
           CITTER TUH APASIH? KENAPA HARUS CITTER?
         </h2>
         <p className="text-lg mb-2 text-justify">
-          CITTER Citra Negara Teater, kami adalah salah satu kegiatan
+          CITTER (Citra Negara Teater), kami adalah salah satu kegiatan
           ekstrakulikuler di SMK CITRA NEGARA DEPOK dalam bentuk pergelaran seni
           teater, CITTER dibentuk pada 8 September 2012 dengan 4 orang pelatih
           yaitu Bang Ucok Lubis, Kak Vicky, Kak Aries, dan Kak Eka.
@@ -24,29 +21,31 @@ const AboutHome = () => {
           Sampai saat ini CITTER sudah mulai memasuki angkatan ke-13 dengan
           jumlah anggota lebih dari 100 orang. Pementasan perdana kami
           diselenggarakan pada tahun 2012 dalam rangka Festival Teater Anak
-          dengan membawakan lakon "Dolananku".
+          dengan membawakan lakon &quot;Dolananku&quot;.
         </p>
         <p className="text-lg mb-2 text-justify">
           Serta lakon-lakon selanjutnya kami mulai di Festival Teater SLTA
-          Se-JABODETABEK ke 23 dengan lakon "EMOSI HUJAN" dan tahun tahun
-          berikut nya dengan lakon "PERGERAKAN", "AKU VS AYAHKU", "DESEMBER",
-          "DIBALIK PUTIH", "GARA-GARA BABEH", "DISIDEN". Saat ikut Festival
-          Teater se-kota Depok lakon yang kami bawakan adalah "KEMBAR SIAM". Di
-          luar FTS kami sudah menggelar pentas tunggal di sekolah pada tanggal
-          28 November 2015 dengan lakon "GONG SI BOLONG" dan "MENTANG MENTANG
-          DARI NEW YORK". Dan mengikuti beberapa monolog seperti FESTIVAL
-          MONOLOG TINGKAT NASIONAL UIN 2017, FESTIVAL MONOLOG SLTA 2019, dan
-          tahun 2022 MONOLOG SPOT Spirit Pankreas On Art 14. Lalu baru-baru
-          ini CITTER mengikuti Festival Teater Madya 2023 dengan membawakan
-          lakon "KEPENDEL".
+          Se-JABODETABEK ke 23 dengan lakon &quot;EMOSI HUJAN&quot; dan tahun
+          tahun berikut nya dengan lakon &quot;PERGERAKAN&quot;, &quot;AKU VS
+          AYAHKU&quot;, &quot;DESEMBER&quot;, &quot;DIBALIK PUTIH&quot;,
+          &quot;GARA-GARA BABEH&quot;, &quot;DISIDEN&quot;. Saat ikut Festival
+          Teater se-kota Depok lakon yang kami bawakan adalah &quot;KEMBAR
+          SIAM&quot;. Di luar FTS kami sudah menggelar pentas tunggal di sekolah
+          pada tanggal 28 November 2015 dengan lakon &quot;GONG SI BOLONG&quot;
+          dan &quot;MENTANG MENTANG DARI NEW YORK&quot;. Dan mengikuti beberapa
+          monolog seperti FESTIVAL MONOLOG (TINGKAT NASIONAL) UIN 2017, FESTIVAL
+          MONOLOG SLTA 2019, dan tahun 2022 MONOLOG SPOT (Spirit Pankreas On
+          Art) 14. Lalu baru-baru ini CITTER mengikuti Festival Teater Madya
+          2023 dengan membawakan lakon &quot;KEPENDEL&quot;.
         </p>
 
         <p className="text-lg mb-2 text-justify">
           Kami juga ikut aktif mengisi acara pentas seni di sekolah, salah satu
-          lakonnya adalah "KLISE", "TJAHAJA", "BABEH VS JUKI", "GOLDEN
-          RHAPSODY", dan baru-baru ini kami membawakan lakon "DI AKHIR PERANG".
-          Setiap mulai latihan kita diawali dengan doa dan diakhiri dengan doa
-          juga ditambah salam kekeluargaan CITTER.
+          lakonnya adalah &quot;KLISE&quot;, &quot;TJAHAJA&quot;, &quot;BABEH VS
+          JUKI&quot;, &quot;GOLDEN RHAPSODY&quot;, dan baru-baru ini kami
+          membawakan lakon &quot;DI AKHIR PERANG&quot;. Setiap mulai latihan
+          kita diawali dengan doa dan diakhiri dengan doa juga ditambah salam
+          kekeluargaan CITTER.
         </p>
       </div>
     </section>

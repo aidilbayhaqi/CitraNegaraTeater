@@ -33,8 +33,8 @@ import galeri10 from "@/app/assets/img/gambar/img18.JPG";
 import galeri11 from "@/app/assets/img/gambar/img19.JPG";
 import galeri12 from "@/app/assets/img/gambar/img20.jpg";
 import galeri13 from "@/app/assets/img/Galeri/galeri 3.png";
-import galeri14 from "@/app/assets/img/gambar/img21.JPG";
-import galeri15 from "@/app/assets/img/gambar/img22.JPG";
+import galeri14 from "@/app/assets/img/gambar/img21.jpg";
+import galeri15 from "@/app/assets/img/gambar/img22.jpg";
 
 // aktivitas latihan
 import adegan1 from "@/app/assets/img/Galeri/galeri 6.jpeg";

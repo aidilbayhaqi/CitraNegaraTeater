@@ -22,10 +22,10 @@ import galeri2 from "@/app/assets/img/gambar/img17.jpeg";
 
 //galeri
 import galerii3 from "@/app/assets/img/Galeri/galeri 1.JPG";
-import galeri3 from "@/app/assets/img/gambar/img7.JPG";
+import galeri3 from "@/app/assets/img/gambar/img7.jpg";
 import galeri4 from "@/app/assets/img/gambar/galeri4.JPG";
-import galeri5 from "@/app/assets/img/gambar/galeri 5.JPG";
-import galeri6 from "@/app/assets/img/gambar/galeri 6.JPG";
+import galeri5 from "@/app/assets/img/gambar/galeri 5.jpg";
+import galeri6 from "@/app/assets/img/gambar/galeri 6.jpg";
 import galeri7 from "@/app/assets/img/gambar/galeri7.JPG";
 import galeri8 from "@/app/assets/img/Galeri/galeri 4.JPG";
 import galeri9 from "@/app/assets/img/Galeri/galeri15.jpeg";
@@ -33,8 +33,8 @@ import galeri10 from "@/app/assets/img/gambar/img18.JPG";
 import galeri11 from "@/app/assets/img/gambar/img19.JPG";
 import galeri12 from "@/app/assets/img/gambar/img20.jpg";
 import galeri13 from "@/app/assets/img/Galeri/galeri 3.png";
-import galeri14 from "@/app/assets/img/gambar/img21.jpg";
-import galeri15 from "@/app/assets/img/gambar/img22.jpg";
+import galeri14 from "@/app/assets/img/gambar/img21.JPG";
+import galeri15 from "@/app/assets/img/gambar/img22.JPG";
 
 // aktivitas latihan
 import adegan1 from "@/app/assets/img/Galeri/galeri 6.jpeg";

@@ -187,91 +187,91 @@ export const galery=[
     {
         id:1,
         Img: galeri1,
-        title:'GALERI 1',
+        title:'FESTIVAL TEATER MADYA',
 
 },
     {
         id:2,
         Img: galeri2,
-        title:'GALERI 1',
+        title:'ENDING KEPENDEL',
 
 },
     {
         id:3,
         Img: galeri3,
-        title:'GALERI 1',
+        title:'MONOLOG SUMBI',
 
 },
     {
         id:4,
         Img: galeri4,
-        title:'GALERI 1',
+        title:'KEPENDEL',
 
 },
     {
         id:1,
         Img: galeri5,
-        title:'GALERI 1',
+        title:'PENTAS DISIDEN',
 
 },
     {
         id:1,
         Img: galeri6,
-        title:'GALERI 1',
+        title:'DISIDEN',
 
 },
     {
         id:1,
         Img: galeri7,
-        title:'GALERI 1',
+        title:'JABAR MASAGI',
 
 },
     {
         id:1,
         Img: galeri8,
-        title:'GALERI 1',
+        title:'JABAR MASAGI',
 
 },
     {
         id:1,
         Img: galeri9,
-        title:'GALERI 1',
+        title:'PENTAS JABAR MASAGI',
 
 },
     {
         id:1,
         Img: galeri10,
-        title:'GALERI 1',
+        title:'PENSI VOCAFEST',
 
 },
     {
         id:1,
         Img: galeri11,
-        title:'GALERI 1',
+        title:'VOCAFEST',
 
 },
     {
         id:1,
         Img: galeri12,
-        title:'GALERI 1',
+        title:'VOCAFEST',
 
 },
     {
         id:1,
         Img: galeri13,
-        title:'GALERI 1',
+        title:'DEMO EKSKUL',
 
 },
     {
         id:1,
         Img: galeri14,
-        title:'GALERI 1',
+        title:'DEMO EKSKUL',
 
 },
     {
         id:1,
         Img: galeri15,
-        title:'GALERI 1',
+        title:'DEMO EKSKUL',
 
 },
 ]
@@ -280,32 +280,32 @@ export const adegan= [
     {
         id:1,
         Img:adegan1,
-        title:'latihan 1',
+        title:'BRIEFING LATIHAN',
     },
     {
         id:1,
         Img:adegan2,
-        title:'latihan 1',
+        title:'PEMERANAN',
     },
     {
         id:1,
         Img:adegan3,
-        title:'latihan 1',
+        title:'IMAJINASI BENDA',
     },
     {
         id:1,
         Img:adegan4,
-        title:'latihan 1',
-    },
-    {
-        id:1,
-        Img:adegan5,
-        title:'latihan 1',
+        title:'PEMANASAN',
     },
     {
         id:1,
         Img:adegan6,
-        title:'latihan 1',
+        title:'LATIHAN VOKAL',
+    },
+    {
+        id:1,
+        Img:adegan5,
+        title:'DOKUMENTASI SELETLAH LATIHAN',
     },
 
 ]
@@ -313,32 +313,32 @@ export const artistik= [
     {
         id:1,
         Img:adegan7,
-        title:'latihan 1',
+        title:'PEMBUATAN ARTISTIK',
     },
     {
         id:1,
         Img:adegan8,
-        title:'latihan 1',
+        title:'PEMBUATAN KURSI',
     },
     {
         id:1,
         Img:adegan9,
-        title:'latihan 1',
+        title:'PENGKONSEPAN PROPERTI',
     },
     {
         id:1,
         Img:adegan10,
-        title:'latihan 1',
+        title:'PENGUJIAN PROPERTI',
     },
     {
         id:1,
         Img:adegan11,
-        title:'latihan 1',
+        title:'PERSIAPAN BAHAN',
     },
     {
         id:1,
         Img:adegan12,
-        title:'latihan 1',
+        title:'PEMBUATAN PROPERTI',
     },
 
 ]
@@ -346,32 +346,32 @@ export const kostum= [
     {
         id:1,
         Img:adegan13,
-        title:'latihan 1',
+        title:'KOSTUM HANTU',
     },
     {
         id:1,
         Img:adegan14,
-        title:'latihan 1',
+        title:'KOSTUM BAJAK LAUT',
     },
     {
         id:1,
         Img:adegan15,
-        title:'latihan 1',
+        title:'KOSTUM PENGAWAL BAJAK LAUT',
     },
     {
         id:1,
         Img:adegan16,
-        title:'latihan 1',
+        title:'KOSTUM PENGAWAL',
     },
     {
         id:1,
         Img:adegan17,
-        title:'latihan 1',
+        title:'KOSTUM SUMBI',
     },
     {
         id:1,
         Img:adegan18,
-        title:'latihan 1',
+        title:'KOSTUM IBU IBU',
     },
 
 ]
@@ -379,17 +379,17 @@ export const danus= [
     {
         id:1,
         Img:adegan19,
-        title:'latihan 1',
+        title:'BERJUALAN',
     },
     {
         id:1,
         Img:adegan20,
-        title:'latihan 1',
+        title:'BERJUALAN',
     },
     {
         id:1,
         Img:adegan21,
-        title:'latihan 1',
+        title:'BERJUALAN',
     },
 ]
 

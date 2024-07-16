@@ -11,7 +11,7 @@ const Achiev = () => {
           return (
             <div key={index} className="border border-white p-5 m-2">
               <Image src={Img} alt="."></Image>
-              <h1 className="mt-3 mb-2 font-bold text-3xl lg:text-4xl">
+              <h1 className="mt-3 mb-2 font-bold text-2xl lg:text-4xl">
                 {title}
               </h1>
               <h3 className="font-bold italic mb-3">{write}</h3>

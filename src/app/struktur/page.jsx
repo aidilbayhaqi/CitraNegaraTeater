@@ -22,10 +22,10 @@ const Struktural = () => {
                   className="hover:scale-105 transition-all"
                 ></Image>
               </Link>
-              <h1 className="text-center font-bold text-4xl lg:text-5xl mt-5">
+              <h1 className="text-center font-bold text-3xl lg:text-5xl mt-5">
                 {name}
               </h1>
-              <h3 className="font-bold text-center italic text-2xl lg:text-xl">
+              <h3 className="font-bold text-center italic text-xl lg:text-xl">
                 {jabatan}
               </h3>
               {/* <Link href={link} className='mx-auto'>sosmed</Link> */}
